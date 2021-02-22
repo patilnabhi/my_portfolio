@@ -1,6 +1,6 @@
 ---
 title: "Layout: Hero Image"
-video: 
+image: 
   thumbnail: /images/so-simple-sample-image-3-400x200.jpg
 categories:
   - Layout
