@@ -31,7 +31,7 @@ syntaxHighlighter: no
 
 *Demo of our proposed sand discharge procedure using the conveyor-hopper system that we built:*
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/AHfOvWC0aQo" frameborder="0" allowfullscreen></iframe>
+<p><center><iframe src="https://player.vimeo.com/video/173007377" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center></p>
 
 
 [Innoventure]: http://innoventure.com.sg/about/

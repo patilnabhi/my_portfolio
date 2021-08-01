@@ -26,5 +26,5 @@ syntaxHighlighter: no
 * Using data from above processing, a `ROS` node was developed to get the location of the red ball
 
 **Project Demo**:  
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/63XBbETPu70" frameborder="0" allowfullscreen></iframe>
+<p><center><iframe src="https://player.vimeo.com/video/173001455" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center></p>
 

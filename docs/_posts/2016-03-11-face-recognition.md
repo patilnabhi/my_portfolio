@@ -25,7 +25,7 @@ syntaxHighlighter: no
 
 <h4>Demo:</h4>
 
-<p><center><iframe width="1920" height="1080" src="https://www.youtube.com/embed/nvPzOo8tyUs" frameborder="0" allowfullscreen></iframe></center></p>
+<p><center><iframe src="https://player.vimeo.com/video/172661429" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center></p>
 
 <h4>Project Website:</h4>  
 

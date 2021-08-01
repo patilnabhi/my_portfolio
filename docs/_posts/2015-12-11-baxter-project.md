@@ -22,7 +22,7 @@ The **goal** of this project was to use [baxter] robot to pick and place objects
 
 The following video shows our project in action:
 
-<p><center><iframe width="1920" height="1080" src="https://www.youtube.com/embed/ZZ2A0e9FO-M" frameborder="0" allowfullscreen></iframe></center></p>
+<p><center><iframe src="https://player.vimeo.com/video/172662439" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center></p>
 
 **Summary**:
 
