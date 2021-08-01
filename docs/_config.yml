@@ -1,0 +1,48 @@
+
+# Syntax highlighting
+markdown:            kramdown
+highlighter:         rouge
+
+# Permalinks
+permalink:           /:title
+# relative_permalinks: true
+
+gems:
+  - jekyll-redirect-from
+
+# Setup
+timezone:            America/Illinois # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
+name:                Abhishek Patil
+title:               Portfolio
+tagline:             'tagline'
+description:         'description'
+url:                 http://patilnabhi.github.io
+rss:                 rss feed url
+baseurl:             '/portfolio/'
+baseurl_posts_img:   '/portfolio/assets/images/posts/'
+baseurl_featured_img: '/portfolio/assets/images/hero/'
+baseurl_featured_thumbnail: '/portfolio/assets/images/thumbnail/'
+baseurl_javascripts: '/portfolio/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus:              disqus_shortname # get it on https://disqus.com/admin/
+
+author:
+  name:              Abhishek Patil
+  url:               your site url
+  linkedin:          patilnabhi
+  github:            patilnabhi
+  mail:              email
+
+# Server
+destination:         ./_site
+exclude:             [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:                9001
+
+# defaults:
+#   -
+#     scope:
+#       path: "/portfolio/_posts"
+#       type: "posts"
+#     values:
+#       layout: "default"
